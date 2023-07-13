@@ -17,10 +17,10 @@ axios.get('https://datosabiertos.gob.ec/api/3/action/package_list')
           console.log(datosConjunto.metadata_modified);
         })
         .catch(error => {
-          console.error(error);
+          console.error("------------error en el for interno");
         });
     }
   })
   .catch(error => {
-    console.error(error);
+    console.error("+++++++++++++++++error enel for externo");
   });
