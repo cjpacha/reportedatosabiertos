@@ -1,5 +1,5 @@
 //inicio de desarrollo 11 de julio de 2023.
-// Maria Mendoza - Javier Pacha
+// Maria Mendoza - Javier Pacha.
 
 const axios = require('axios');
 
