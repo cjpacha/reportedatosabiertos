@@ -1,4 +1,4 @@
-//inicio de desarrollo 11 de julio de 2023
+//inicio de desarrollo 11 de julio de 2023.
 
 const axios = require('axios');
 
