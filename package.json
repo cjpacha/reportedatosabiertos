@@ -2,7 +2,7 @@
   "name": "reportedatosabiertos",
   "version": "1.0.0",
   "description": "App para generar un reporte de instituciones, conjuntos de datos y recursos que se publican en el Portal de Datos Abierto https://datosabiertos.gob.ec/. Tecnologías utilizadas Node js y Axios",
-  "main": "api.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
