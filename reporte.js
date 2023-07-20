@@ -53,8 +53,8 @@ async function imprimir() {
           created: datosConjunto.metadata_created,
           modified: datosConjunto.metadata_modified,
           num_resources: datosConjunto.num_resources,
-          url: '', // Initialize with an empty string
-          size: '', // Initialize with an empty string
+          url: '', 
+          size: '', 
         };
 
         if (datosConjunto.resources && datosConjunto.resources.length > 0) {
